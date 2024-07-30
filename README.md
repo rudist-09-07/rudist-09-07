@@ -1,7 +1,5 @@
 # Rudi Strauss
 
-**Email:** rudi@dtfx.co.za  
-**Phone:** +27 72 560 2747  
 **Location:** Pretoria, South Africa
 
 ---
